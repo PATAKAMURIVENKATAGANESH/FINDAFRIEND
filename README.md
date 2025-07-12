@@ -12,7 +12,7 @@ FindAFriend is a cutting-edge global social networking app that connects users s
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP, MySQL
-- **Deployment**: AWS (Amazon Web Services)
+- **Deployment**: AWS EC2
 
 ## Getting Started
 
